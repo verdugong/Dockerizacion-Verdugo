@@ -97,7 +97,7 @@ Para poder ejecutar el proyecto necesitas:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/ecommerce-microservicios.git
+git clone https://github.com/verdugong/Dockerizacion-Verdugo.git
 cd ecommerce-microservicios
 ```
 
