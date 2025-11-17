@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(135deg, #f5f7fa, #e4ebf5);
+  min-height: 100vh;
+}
+
+.navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: 0 0.75rem 1.5rem rgba(0, 0, 0, 0.05);
+}
+
